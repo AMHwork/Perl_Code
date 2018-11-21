@@ -1,0 +1,1120 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Fresh Air : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2018-09-28" /><link rel="canonical" href="https://www.npr.org/programs/fresh-air/2018/09/28/652487255" /><meta name="description" content="Hear the Fresh Air program for September 28, 2018" /><link rel="alternate" type="application/rss+xml" title="Fresh Air" href="/rss/rss.php?id=13" /><link rel="alternate" type="application/json" title="Fresh Air" href="https://www.npr.org/feeds/13/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png" /><meta property="og:title" content="Fresh Air" /><meta property="og:url" content="https://www.npr.org/programs/fresh-air/2018/09/28/652487255" /><meta property="og:type" content="article" /><meta property="og:description" content="Hear the Fresh Air program for September 28, 2018" /><meta property="og:image" content="https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":false};
+NPR.serverVars = {"storyId":"652487255","programId":"Fresh Air","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"21278483676b8bfda1d1c181091c64f6","isBuildOut":false,"theme":"13","program":"13","pubDate":"2018092813","pageTypeId":"32","title":"Fresh Air for Sept. 28, 2018: Robert Redford","publisherOrgId":"1","rocketfuelCode":20501671};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script>
+   !function(e){function f(c){if(a[c])return a[c].exports;var d=a[c]={exports:{},id:c,loaded:!1};return e[c].call(d.exports,d,d.exports,f),d.loaded=!0,d.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],d[r]&&i.push.apply(i,d[r]),d[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(f){var c=f.slice(1),a=f[0];return function(f,d,b){e[a].apply(this,[f,d,b].concat(c))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,f);if(t[0])return a[0]=0,f(0)};var a={},d={26:0};f.e=function(e,c){if(0===d[e])return c.call(null,f);if(void 0!==d[e])d[e].push(c);else{d[e]=[c];var a=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=f.p+""+e+"."+{0:"9a94d18b115371008438",1:"72fc699e8d75572a011c",2:"072679ae6a480ffa4285",3:"47ee929f1164493edbfc",4:"557ab95514fea11afec8",5:"d2852d0bfc711689e457",6:"66ec89dffc74a9fcd2ba",7:"e0669438bd5c7552a3fb",8:"1b9354c7949073c64219",9:"631fc4068fa2f9992912",10:"f90e78d4eb5db4aecd85",11:"a43ee375058f908b1b7c",12:"02f7045f4a8c4f2971ad",13:"57fc3dbe884442172f3d",14:"69fe4a785e10705fb2ff",15:"6162f813ed7275d1524a",16:"4282b414c9c2fad96af8",17:"f9dc715b6ad9a772e596",18:"883f1edd60940940d8d3",19:"5764a9dc709f85ee3eac",20:"d1aef5c65de7f1559fef",21:"df52310c0a70a187a0e6",22:"b84911be5190802e7cae",23:"f2477482e034b407ef1d",24:"88f677f70b250bc552c1",25:"c5820a7a0a978792c048",27:"a481fb1bc15576fba57d",28:"588c0e66fdb45f4f7614",29:"5b9d7fd349641326979d",30:"97e100d84e0960c8e94b",31:"0efe8489f52c10deb72e",32:"ee43644cf9d091f9bde9",33:"bcb5441be0b5e6c42dcf",34:"10b90541565343a74ae7",35:"ecca8f4038db729266ab",36:"7951d7b07056a5f01393",37:"1f640647038edd7c63cd",38:"790f417a11eb25341d60",39:"e996f222d353787db4f1",40:"a1de6e1f8e5e482e77b7",41:"4627cf5d746913c97888",42:"8f6d981f1dafcb4b4461",43:"fb75cfbf3ad5d6b5388d",44:"84eb0373d058ee78a804",45:"941720520a4af73f0a7b",46:"62be015febe037951bfa",47:"9dada287e9c8bfcff212",48:"974c28145109679697f9",49:"1a282015c80f33384a69",50:"a0f8ff3ec621eded7a80",51:"739e3c13b3b0eaff0adc",52:"3866d46e919bdd540fc8",53:"3277ef1494c7df52b00d",54:"8433f92a70b8a13d5b15",55:"f263a670407e7c550e6e",56:"2bb9c511567d2a38aee3",57:"5b7eecc5192c6b23d7d8",58:"b8048c5a807a384c4cf5",59:"839820982020b2e33c9e",60:"356d2fbeb206175e0665",61:"e96dec0c60aadd874c6b",62:"4545f77f3422643c31d7",63:"a140ac73d1430d651ce6",64:"2a6e99a7c8fbe7f92253",65:"23073471e9ebc1307599",66:"eaf3d8199d813a0630de",67:"11da2799a622db2ed243",68:"bc1ca5cdaaeeed94cc26",69:"3c05e23e09d3faf016f7",70:"3030e705258c2270898b",71:"22b794714cbee31277cb",72:"74d43794630be1741766",73:"67e8657467f3989c777c",74:"3af1cb969fb2bf4853a3",75:"fba5985105002bedbd88",76:"10b668a4e0b529e8e10e",77:"e9f5df7ff566fb92a4e6",78:"a5adce79f5ff2d7c7f0b",79:"cd5d48116a1ed553ee67",80:"0662b19dc2164ddd66e3",81:"56f8b0453799f8dfccc0",82:"ecf2ce7f87a35a9e41b7",83:"4766827cb866e802edd7",84:"53c43791d4214291f48b"}[e]+".chunk.js",a.appendChild(b)}},f.m=e,f.c=a,f.p="/templates/javascript/dist/bundles/"}(function(e){for(var f in e)if(Object.prototype.hasOwnProperty.call(e,f))switch(typeof e[f]){case"function":break;case"object":e[f]=function(f){var c=f.slice(1),a=e[f[0]];return function(e,f,d){a.apply(this,[e,f,d].concat(c))}}(e[f]);break;default:e[f]=e[e[f]]}return e}([]));
+</script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-e0e91c6e897d37ced2da.css" /><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/programs-css-e0e91c6e897d37ced2da.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/branding/programs/fresh-air/branding.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/include/overridecss/theme13.css" /><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news program tmplProgramInterview  id652487255 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/globalnav fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking agg/tools infinitescroll recommendations/end-of-story-recommendations-callout programs/program social/share social/sharepop images/captions ecommerce contentfooter callout/end-of-story-callout"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header id="globalheader" class="globalheader" aria-label="NPR header"><div class="globalheader-inner" data-metrics-all data-metrics-category="global navigation">
+    <div class="lead" data-metrics-action="click npr logo">
+        <button class="sidebar-button" id="js-sidebar-button" aria-controls="global-navigation-wrap" aria-expanded="false" data-metrics-action="toggle offcanvas">View Navigation</button>
+
+        <!-- General color logo -->
+        <a href="/" class="nprhome nprhome-news" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+            <span class="ecosystem-name">NPR</span>
+        </a>
+
+        <!-- General b&w line logo -->
+        <a href="/" class="nprhome nprhome-news-alt" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr_logo.svg" alt="NPR logo"/>
+            <span class="ecosystem-name">NPR</span>
+        </a>
+
+        <!-- Music color logo -->
+        <a href="/music/" class="nprhome nprhome-music" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/music-logo-2018.svg" alt="NPR Music logo"/>
+            <span class="ecosystem-name">NPR Music</span>
+        </a>
+
+        <!-- Books color logo -->
+        <a href="/books/" class="nprhome nprhome-books" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+            <span class="ecosystem-name"><b>NPR</b> Books</span>
+        </a>
+
+        <!-- About color logo -->
+        <a href="/sections/750000/about-npr/" class="nprhome nprhome-about" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+            <span class="ecosystem-name"><b>NPR</b> About</span>
+        </a>
+
+        <!-- Podcasts -->
+        <a href="/podcasts/" class="nprhome nprhome-podcast" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg" alt="NPR Podcast Directory logo" class="img-headphones" />
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo" class="img-npr-logo" />
+            <span class="ecosystem-name"><b>NPR</b>Podcast Directory</span>
+        </a>
+
+        <div class="search-wrapper">
+            <a href="/search" class="search-link" data-metrics-action="click search">Search</a>
+        </div>
+    </div>
+    <!-- /.lead -->
+
+    <div class="global-navigation-wrap" id="global-navigation-wrap">
+        <nav class="global-navigation" aria-label="main navigation">
+            <!-- see globalnav.js for documentation on how topbar subnav dropdown system works -->
+
+            <div class="top-level">
+                <ul class="top-level-list ecosystem-all primary">
+                    <li class="nprhome"><a href="/" data-metrics-action="click npr logo">NPR Home</a></li>
+                    <li id="station-navigation-mount"></li>
+                </ul>
+
+                <ul class="top-level-list ecosystem-news primary" data-metrics-category="global navigation">
+                    <li class="news"><a href="/sections/news/" data-metrics-action="click news">News</a></li>
+                    <li class="arts-life"><a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a></li>
+                    <li class="music"><a href="/music/" data-metrics-action="click music">Music</a></li>
+                    <li class="topics has-subnav"><a href="/programs" data-metrics-action="toggle topics" data-metrics-label="#">Topics</a></li>
+                    <li class="programs-podcasts has-subnav">
+                        <a href="/programs" data-metrics-action="toggle programs & podcasts drawer">
+                            Programs&nbsp;<b>&amp; Podcasts</b>
+                        </a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-news.primary -->
+
+                <ul class="top-level-list ecosystem-music primary" data-metrics-category="music ecosystem navigation">
+                    <li class="music-home">
+                        <a href="/music/" data-metrics-action="click npr music">NPR Music</a>
+                    </li>
+                    <li class="music-news"><a href="/sections/music-news/" data-metrics-action="click music news">News</a></li>
+                    <li class="features">
+                        <a href="/sections/music-features/" data-metrics-action="click features">Features</a>
+                    </li>
+                    <li class="new-music">
+                        <a href="/sections/new-music/" data-metrics-action="click new music">New Music</a>
+                    </li>
+                    <li class="video">
+                        <a href="/sections/music-videos/" data-metrics-action="click video">Video</a>
+                    </li>
+                    <li class="tiny-desk">
+                        <a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-music.primary -->
+
+                <ul class="top-level-list ecosystem-books primary" data-metrics-category="books ecosystem navigation">
+                    <li class="books-home">
+                        <a href="/books/" data-metrics-action="click npr books">NPR Books</a>
+                    </li>
+                    <li class="author-interviews">
+                        <a href="/sections/author-interviews/" data-metrics-action="click author interviews"><b>Author </b>Interviews</a>
+                    </li>
+                    <li class="find-books has-subnav">
+                        <a href="#" data-metrics-action="toggle find books drawer">Find Books</a>
+                    </li>
+                    <li class="reviews has-subnav">
+                        <a href="#" data-metrics-action="toggle reviews drawer">Reviews</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-books.primary -->
+
+                <ul class="top-level-list ecosystem-about primary" data-metrics-category="about ecosystem navigation">
+                    <li class="about-home">
+                        <a href="/about/" data-metrics-action="click about npr">About NPR</a>
+                    </li>
+                    <li class="overview has-subnav">
+                        <a href="/about/aboutnpr/" data-metrics-action="toggle overview drawer">Overview</a>
+                    </li>
+                    <li class="connect has-subnav">
+                        <a href="#" data-metrics-action="toggle connect drawer">Connect</a>
+                    </li>
+                    <li class="support has-subnav">
+                        <a href="/about/support/" data-metrics-action="toggle support drawer">Support</a>
+                    </li>
+                    <li class="press has-subnav">
+                        <a href="/series/750003/press-room/" data-metrics-action="toggle press drawer">Press</a>
+                    </li>
+                    <li class="careers has-subnav">
+                        <a href="/series/750004/careers" data-metrics-action="toggle careers drawer">Careers</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-about.primary -->
+
+                <ul class="top-level-list ecosystem-podcast primary" data-metrics-category="podcast ecosystem navigation">
+                    <li class="podcasts-home">
+                        <a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a>
+                    </li>
+
+                    <li class="podcast-categories has-subnav">
+                        <a href="#" data-metrics-action="toggle categories">Categories</a>
+                    </li>
+                    <li class="podcast-local">
+                        <div id="local-podcasts-nav-mount" class="podcast-local"></div>
+                        <!-- data comes via JavaScript -->
+                    </li>
+                </ul>
+                <!-- /.ecosystem-podcast.primary -->
+
+                <ul class="top-level-list ecosystem-all secondary" data-metrics-category="global navigation">
+                    <li id="station-navigation-secondary-mount"></li>
+
+                    <li id="station-donate-mount"></li>
+
+                    <li class="nprshop">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop"><b>NPR</b> Shop</a>
+                    </li>
+
+                    <li id="user-account-access-dropdown-mount"></li>
+                </ul>
+                <!-- /.ecosystem-all.secondary -->
+            </div>
+            <!-- /.top-level -->
+
+            <!-- News ecosystem -->
+            <div class="subnav subnav-topics ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+                <div class="group">
+                    <span class="group-hdr"><a href="/sections/news/" data-metrics-action="click news">News</a></span>
+                    <ul>
+                        <li><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                        <li><a href="/sections/education/" data-metrics-action="click education">Education</a></li>
+                    </ul>
+                </div>
+                <div class="group">
+                    <span class="group-hdr"><a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a></span>
+                    <ul>
+                        <li><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a></li>
+                        <li><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                        <li><a href="/sections/photography/" data-metrics-action="click photography">Photography</a></li>
+                    </ul>
+                </div>
+                <div class="group">
+                    <span class="group-hdr"><a href="/music/" data-metrics-action="click music">Music</a></span>
+                    <ul>
+
+                        <li><a href="/series/98679384/first-listen" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/sections/music-videos/" data-metrics-action="click videos">Videos</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <span class="group-hdr">More</span>
+                    <ul>
+                        <li><a href="/about-npr/198341814/npr-blog-directory" data-metrics-action="click our blogs">Our Blogs</a></li>
+                        <li><a href="/templates/corrections/corrections.php" data-metrics-action="click corrections">Corrections</a></li>
+                        <li><a href="/about/aboutnpr/" data-metrics-action="click all about npr">All About NPR</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="subnav subnav-programs-podcasts ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <span class="group-hdr">News &amp; Conversations</span>
+                    <ul>
+                        <li><a href="/programs/morning-edition/" data-metrics-action="click morning edition">Morning Edition</a></li>
+                        <li><a href="/programs/all-things-considered/" data-metrics-action="click all things considered">All Things Considered</a></li>
+                        <li><a href="/programs/fresh-air/" data-metrics-action="click fresh air">Fresh Air</a></li>
+                        <li><a href="http://www.wbur.org/hereandnow" target="_blank" data-metrics-action="click here & now">Here &amp; Now</a></li>
+                        <li><a class="subnav__1a" href="http://the1a.org/" data-metrics-action="click 1a">1A</a></li>
+                        <li><a href="/podcasts/510312/codeswitch" data-metrics-action="click code switch">Code Switch</a></li>
+                        <li><a href="/podcasts/510311/embedded" data-metrics-action="click embedded">Embedded</a></li>
+                        <li><a href="/podcasts/510325/the-indicator-from-planet-money" data-metrics-action="click the indicator from planet money">The Indicator from Planet Money</a></li>
+                        <li><a href="/podcasts/510317/its-been-a-minute-with-sam-sanders" data-metrics-action="click it's been a minute with sam sanders">It's Been a Minute with Sam Sanders</a></li>
+                        <li><a href="http://latinousa.org/" data-metrics-action="click latino usa">Latino USA</a></li>
+                        <li><a href="/podcasts/510310/npr-politics-podcast" data-metrics-action="click npr politics podcast">NPR Politics Podcast</a></li>
+                        <li><a href="http://onpoint.wbur.org/" target="_blank" data-metrics-action="click on point">On Point</a></li>
+                        <li><a href="/podcasts/510324/rough-translation" data-metrics-action="click rough translation">Rough Translation</a></li>
+                        <li><a href="/podcasts/510318/up-first" data-metrics-action="click up first">Up First</a></li>
+                        <li><a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">Weekend Edition Saturday</a></li>
+                        <li><a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">Weekend Edition Sunday</a></li>
+                        <li><a href="/podcasts/510323/whats-good-with-stretch-and-bobbito" data-metrics-action="click what's good with stretch & bobbito">What's Good with Stretch &amp; Bobbito</a></li>
+                        <li><a href="/series/4692815/youth-radio" data-metrics-action="click youth radio">Youth Radio</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <span class="group-hdr">Storytelling &amp; Humor</span>
+                    <ul>
+                        <li><a href="/programs/ask-me-another/" data-metrics-action="click ask me another">Ask Me Another</a></li>
+                        <li><a href="http://www.cartalk.com" target="_blank" data-metrics-action="click the best of car talk">The Best Of Car Talk</a></li>
+                        <li><a href="http://www.maximumfun.org/shows/bullseye" target="_blank" data-metrics-action="click bullseye">Bullseye</a></li>
+                        <li><a href="/series/423302056/hidden-brain" data-metrics-action="click hidden brain">Hidden Brain</a></li>
+                        <li><a href="/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this">How I Built This</a></li>
+                        <li><a href="/programs/invisibilia/" data-metrics-action="click invisibilia">Invisibilia</a></li>
+                        <li><a href="http://onlyagame.wbur.org/" data-metrics-action="click only a game">Only A Game</a></li>
+                        <li><a href="/sections/money/" data-metrics-action="click planet money">Planet Money</a></li>
+                        <li><a href="/podcasts/510282/pop-culture-happy-hour" data-metrics-action="click pop culture happy hour">Pop Culture Happy Hour</a></li>
+                        <li><a href="/podcasts/510315/radio-ambulante" data-metrics-action="click radio ambulante">Radio Ambulante</a></li>
+                        <li><a href="http://storycorps.org" class="storycorps" target="_blank" data-metrics-action="click storycorps">StoryCorps</a></li>
+                        <li><a href="/programs/ted-radio-hour/" data-metrics-action="click ted radio hour">TED Radio Hour</a></li>
+                        <li><a href="/programs/wait-wait-dont-tell-me/" data-metrics-action="click wait wait don't tell me">Wait Wait...Don't Tell Me!</a></li>
+                        <li><a href="/podcasts/510321/wow-in-the-world/" data-metrics-action="click wow in the world">Wow in the World</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <span class="group-hdr">Music</span>
+                    <ul>
+                        <li><a href="/series/98679384/first-listen/" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/sections/allsongs/" data-metrics-action="click all songs considered">All Songs Considered</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/series/alt-latino/" data-metrics-action="click alt.latino">Alt.Latino</a></li>
+                        <li><a href="/podcasts/510026/from-the-top" target="_blank" data-metrics-action="click from the top">From The Top</a></li>
+                        <li><a href="/series/347139849/jazz-night-in-america" data-metrics-action="click jazz night in america">Jazz Night In America</a></li>
+                        <li><a href="/series/mountain-stage/" data-metrics-action="click mountain stage">Mountain Stage</a></li>
+                        <li><a href="/programs/piano-jazz/" data-metrics-action="click piano jazz">Piano Jazz</a></li>
+                        <li><a href="/series/103063413/the-thistle-and-shamrock/" data-metrics-action="click the thistle & shamrock">The Thistle &amp; Shamrock</a></li>
+                        <li><a href="/programs/world-cafe/" data-metrics-action="click world cafe">World Cafe</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <span class="group-hdr">More</span>
+                    <ul>
+                        <li><a href="/programs/" data-metrics-action="click all programs">All Programs</a></li>
+                        <li><a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a></li>
+                        <!-- local organization podcast inserted here via JavaScript -->
+                        <li><a href="/podcasts/organizations/1" data-metrics-action="click npr podcasts">NPR Podcasts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-programs-podcasts -->
+            <!-- /News ecosystem -->
+
+            <!-- Books ecosystem -->
+            <div class="subnav subnav-find-books ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10110/art-design/" data-metrics-action="click art & design">Art &amp; Design</a></li>
+                        <li><a href="/books/genres/10126/arts-entertainment/" data-metrics-action="click arts & entertainment">Arts &amp; Entertainment</a></li>
+                        <li><a href="/books/genres/10101/biography-memoir/" data-metrics-action="click biography & memoir">Biography &amp; Memoir</a></li>
+                        <li><a href="/books/genres/10102/business-economy/" data-metrics-action="click business & economy">Business &amp; Economy</a></li>
+                        <li><a href="/books/genres/10122/children/" data-metrics-action="click children's books">Children's Books</a></li>
+                        <li><a href="/books/genres/10123/comedy/" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/books/genres/10104/comics-graphic-novels/" data-metrics-action="click comics & graphic novels">Comics &amp; Graphic Novels</a></li>
+                        <li><a href="/books/genres/10127/digital-culture/" data-metrics-action="click digital culture">Digital Culture</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10103/faith-spirituality/" data-metrics-action="click faith & spirituality">Faith &amp; Spirituality</a></li>
+                        <li><a href="/books/genres/10106/food-wine/" data-metrics-action="click food & wine">Food &amp; Wine</a></li>
+                        <li><a href="/books/genres/10109/history-society/" data-metrics-action="click history & society">History &amp; Society</a></li>
+                        <li><a href="/books/genres/10113/historical-fiction/" data-metrics-action="click historical fiction">Historical Fiction</a></li>
+                        <li><a href="/books/genres/191663270/horror-supernatural/" data-metrics-action="click horror & supernatural">Horror &amp; Supernatural</a></li>
+                        <li><a href="/books/genres/10112/literary-fiction/" data-metrics-action="click literary fiction">Literary Fiction</a></li>
+                        <li><a href="/books/genres/10114/mystery-thrillers/" data-metrics-action="click mystery & thrillers">Mystery &amp; Thrillers</a></li>
+                        <li><a href="/books/genres/10116/parenting-families/" data-metrics-action="click parenting & families">Parenting &amp; Families</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10125/poetry/" data-metrics-action="click poetry">Poetry</a></li>
+                        <li><a href="/books/genres/10117/politics-public-affairs/" data-metrics-action="click politics & public affairs">Politics &amp; Public Affairs</a></li>
+                        <li><a href="/books/genres/10118/romance/" data-metrics-action="click romance">Romance</a></li>
+                        <li><a href="/books/genres/10119/science-fiction-fantasy/" data-metrics-action="click science fiction & fantasy">Science Fiction &amp; Fantasy</a></li>
+                        <li><a href="/books/genres/10108/science-health/" data-metrics-action="click science & health">Science &amp; Health</a></li>
+                        <li><a href="/books/genres/10120/sports/" data-metrics-action="click sports">Sports</a></li>
+                        <li><a href="/books/genres/10124/travel/" data-metrics-action="click travel">Travel</a></li>
+                        <li><a href="/books/genres/10121/young-adults/" data-metrics-action="click young adult">Young Adult</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li class="genre"><a href="/books/genres/10115/nonfiction/" data-metrics-action="click nonfiction">Nonfiction</a></li>
+                        <li class="genre"><a href="/books/genres/10111/fiction/" data-metrics-action="click fiction">Fiction</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="subnav subnav-reviews ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/sections/book-reviews" data-metrics-action="click book reviews">Book Reviews</a></li>
+                    <li><a href="/series/257657827/this-weeks-must-read" data-metrics-action="click this week's must read">This Week's Must Read</a></li>
+                    <li><a href="/series/104566969/my-guilty-pleasure" data-metrics-action="click my guilty pleasure">My Guilty Pleasure</a></li>
+                    <li><a href="/series/three-books/" data-metrics-action="click three books...">Three Books...</a></li>
+                    <li><a href="/series/153588024/pg-13-go-to-teen-reads" data-metrics-action="click pg-13: risky reads">PG-13: Risky Reads</a></li>
+                    <li><a href="/series/you-must-read-this/" data-metrics-action="click you must read this">You Must Read This</a></li>
+                    <li><a href="/summerbooks/" data-metrics-action="click summer books">Summer Books</a></li>
+                    <li><a href="/bestbooks/" data-metrics-action="click best books of the year">Best Books of the Year</a></li>
+                </ul>
+            </div>
+            <!-- /Books ecosystem -->
+
+            <!-- About ecosystem -->
+            <div class="subnav subnav-overview ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about/aboutnpr/" data-metrics-action="click overview">Overview</a></li>
+                    <li><a href="/about-npr/192827079/overview-and-history" data-metrics-action="click overview and history">Overview and History</a></li>
+                    <li><a href="/about-npr/178659563/our-mission-and-vision" data-metrics-action="click mission and vision">Mission and Vision</a></li>
+                    <li><a href="/about-npr/178640915/npr-stations-and-public-media" data-metrics-action="click stations and public media">Stations and Public Media</a></li>
+                    <li><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="click npr finances">NPR Finances</a></li>
+                    <li><a href="/about-npr/179803822/people-at-npr" data-metrics-action="click people">People</a></li>
+                    <li><a href="http://ethics.npr.org/" data-metrics-action="click ethics">Ethics</a></li>
+                    <li><a href="about-npr/183726490/awards" data-metrics-action="click awards">Awards</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-connect ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about-npr/177066727/visit-npr" data-metrics-action="click visit npr">Visit NPR</a></li>
+                    <li><a href="http://www.nprpresents.org/" data-metrics-action="click npr events">NPR Events</a></li>
+                    <li><a href="/about-npr/182673872/book-an-npr-speaker" data-metrics-action="click book a speaker">Book a Speaker</a></li>
+                    <li><a href="/about-npr/179881519/rights-and-permissions-information" data-metrics-action="click request permissions">Request Permissions</a></li>
+                    <li><a href="/about-npr/187046089/ways-to-listen-to-npr" data-metrics-action="click ways to listen">Ways to Listen</a></li>
+                    <li><a href="/sections/npr-extra/" data-metrics-action="click npr extra blog">NPR Extra Blog</a></li>
+                    <li><a href="/newsletters/" data-metrics-action="click sign up: newsletters">Email Newsletters</a></li>
+                    <li><a href="https://shop.npr.org/" data-metrics-action="click shop npr">Shop NPR</a></li>
+                    <li><a href="https://help.npr.org" data-metrics-action="click get help">Get Help</a></li>
+                    <li><a href="/contact/" data-metrics-action="click contact us">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-support ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750002/support-public-radio" data-metrics-action="click support public radio">Support Public Radio</a></li>
+                    <li><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="click corporate sponsorship">Corporate Sponsorship</a>
+                    <li><a href="/about-npr/181961258/volunteer-at-npr" data-metrics-action="click volunteer">Volunteer</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-press ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750003/press-room/" data-metrics-action="click releases and statements">Releases and Statements</a></li>
+                    <li><a href="/about-npr/182675632/photos-and-logos" data-metrics-action="click photos and logos">Photos and Logos</a></li>
+                    <li><a href="/about/press/NPR_Fact_Sheet.pdf" data-metrics-action="click fact sheet pdf">Fact Sheet (PDF)</a></li>
+                    <li><a href="/about-npr/185546105/media-relations-contacts" data-metrics-action="click media relations contacts">Media Relations Contacts</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-careers ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750004/careers">Careers at NPR</a></li>
+                    <li><a href="https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6" data-metrics-action="click search jobs">Search Jobs</a></li>
+                    <li><a href="/about-npr/179008081/tapping-into-the-npr-culture/" data-metrics-action="click culture">Culture</a></li>
+                    <li><a href="/about-npr/181909622/applying-at-npr/" data-metrics-action="click applying">Applying</a></li>
+                    <li><a href="/about-npr/181881227/internships-at-npr/" data-metrics-action="click interns">Interns</a></li>
+                    <li><a href="/about-npr/181880514/fellowships-at-npr/" data-metrics-action="click fellows">Fellows</a></li>
+                    <li><a href="/about-npr/185550054/digital-careers-at-npr/" data-metrics-action="click digital">Digital</a></li>
+                </ul>
+            </div>
+            <!-- /About ecosystem -->
+
+            <!-- Podcast ecosystem -->
+            <div class="subnav subnav-podcast-categories ecosystem-podcast" data-metrics-category="podcast ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2000/arts" data-metrics-action="click arts">Arts</a></li>
+                        <li><a href="/podcasts/2007/business" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/podcasts/2013/comedy" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/podcasts/2014/education" data-metrics-action="click education">Education</a></li>
+                        <li><a href="/podcasts/2020/games-hobbies" data-metrics-action="click games & hobbies">Games &amp; Hobbies</a></li>
+                        <li><a href="/podcasts/2026/government-organizations" data-metrics-action="click government & organizations">Government &amp; Organizations</a></li>
+                        <li><a href="/podcasts/2031/health" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/podcasts/2036/kids-family" data-metrics-action="click kids & family">Kids &amp; Family</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2037/music" data-metrics-action="click music">Music</a>
+                        </li>
+                        <li><a href="/podcasts/2038/news-politics" data-metrics-action="click news & politics">News &amp; Politics</a></li>
+                        <li><a href="/podcasts/2039/religion-spirituality" data-metrics-action="click religion & spirituality">Religion &amp; Spirituality</a></li>
+                        <li><a href="/podcasts/2047/science-medicine" data-metrics-action="click science & medicine">Science &amp; Medicine</a></li>
+                        <li><a href="/podcasts/2051/society-culture" data-metrics-action="click society & culture">Society &amp; Culture</a></li>
+                        <li><a href="/podcasts/2056/sports-recreation" data-metrics-action="click sports & recreation">Sports &amp; Recreation</a></li>
+                        <li><a href="/podcasts/2061/technology" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/podcasts/2066/tv-film" data-metrics-action="click tv & film">TV &amp; Film</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-podcast-categories -->
+            <!-- /Podcast ecosystem -->
+
+            <!-- Common ecosystem -->
+
+            <!-- /.subnav-user-account -->
+            <!-- /Common ecosystem -->
+
+        </nav>
+        <!-- ./global-navigation -->
+    </div>
+    <!-- ./global-navigation-wrap -->
+
+    <!--
+        .global-navigation-two
+    -->
+    <nav class="global-navigation-two" aria-label="station navigation" data-metrics-category="global navigation">
+        <ul class="top-level">
+            <li id="station-navigation-med-mount"></li>
+            <li class="nprshop"><a href="https://shop.npr.org" data-metrics-action="click npr shop"><b>NPR</b> Shop</a></li>
+            <li id="station-donate-med-mount"></li>
+        </ul>
+    </nav>
+
+    <!--
+        .global-navigation-three
+        Gets created here via JavaScript on certain landing page layouts
+    -->
+</div>
+<!-- .globalheader-inner -->
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Fresh Air</b>   <b data-is-speakable>Hear the Fresh Air program for September 28, 2018</b>
+</div>
+<div id="wrapper">
+      <input type="hidden" id="title652487255" value="Fresh Air for Sept. 28, 2018: Robert Redford" />
+   <input type="hidden" id="shortTitle652487255" value="Fresh Air for Sept. 28, 2018: Robert Redford" />
+   <input type="hidden" id="modelShortUrl652487255" value="https://www.npr.org/programs/fresh-air/2018/09/28/652487255" />
+   <input type="hidden" id="modelFullUrl652487255" value="https://www.npr.org/programs/fresh-air/2018/09/28/652487255" />
+   <section id="main-section"><header class="contentheader contentheader--one" data-metrics-category="Fresh Air for Sept. 28, 2018: Robert Redford"><div class="branding branding--custom">
+      <a href="https://www.npr.org/programs/fresh-air/" data-metrics='{"action":"click branding"}' ><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-image"><img class="branding__image-title" src="https://media.npr.org/branding/programs/fresh-air/branding_main-5ca4200447dce40d3e4fd3e079099c948eca49a1.png" alt="Fresh Air" /><b>Fresh Air</b></h2>
+   <b class="branding__mini-teaser">From WHYY in Philadelphia</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+<button class="toggle toggle--agg-tools"></button></header><div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation" role="navigation" aria-label="sub-navigation">
+            <div id="res341873338" class="bucketwrap statichtml">
+                  <div class="subtopics">
+  <ul class="animated fadeInRight">
+    <li><a href="/programs/fresh-air">Latest Show</a></li>
+    <li><a href="/templates/story/story.php?storyId=5013">About</a></li>
+    <li><a href="/people/2100593/terry-gross">Terry Gross</a></li>
+     <li><a href="/podcasts/381444908/fresh-air">Podcast</a></li>
+    <li><a href="https://help.npr.org/customer/portal/emails/new?i=1&s=Fresh%20Air">Contact Fresh Air</a></li>
+  </ul>
+</div>
+
+<div class="roller-overlay"></div>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="https://twitter.com/nprfreshair" data-metrics='{"action":"Click Twitter"}'>Twitter</a></li>
+  <li class="facebook"><a href="https://www.facebook.com/freshairwithterrygross" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+</ul>
+      </div>
+      
+<!-- END ID="RES341873338" CLASS="BUCKETWRAP STATICHTML" -->
+   </div>
+   <div id="tools-wrapper">
+    <div class="agg-tools">
+        <ul>
+            <li><a class="newsletter-subscription" href="/newsletter/best-of-npr"  data-metrics='{"action":"click subscribe to newsletter","label":"Best of NPR Newsletter","category":"Aggregation"}' >Subscribe to Best of NPR Newsletter</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+<a id="mainContent"></a><div id="episode-core-wrap" class="episode-core-wrap">
+      <div id="episode-core" class="episode-core">
+            <nav class="program-nav program-nav--one">
+    <ul>
+        <li class="prev"><a href="https://www.npr.org/programs/fresh-air/2018/09/27/652085294?showDate=2018-09-27"  data-metrics='{"action":"Click Previous Episode - Top","category":"Story to Story","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/27\/652085294?showDate=2018-09-27"}' ><b class="icn-arrow"></b>Older</a></li>
+
+        <li class="archive">
+            <a href="/programs/fresh-air/archive"  data-metrics='{"action":"Click Browse Episodes - Top","category":"Story to Story","label":"\/programs\/fresh-air\/archive"}' >
+                <b class="icn"></b>
+                <b class="archive-one">browse past shows</b>
+                <b class="archive-two">Show Archive</b>
+            </a>
+        </li>
+
+        <li class="next no-link"><b class="icn-arrow"></b>Newer</li>
+        
+    </ul>
+
+    <div class="current">
+        <time datetime="2018-09-28">
+            <b class="date">
+                <b class="day">Friday, </b>
+                September 28, 2018
+            </b>
+        </time>
+
+        <h1>Friday's Show</h1>
+    </div>
+
+</nav>
+      <div id="full-show">
+                    <b data-play-all='{"type":"episode","full":[],"segments":["652508630:652649010","652531636:652649207"],"audioData":[{"uid":"652508630:652649010","available":true,"duration":2213,"title":"Robert Redford: The \u0027Fresh Air\u0027 Interview","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180928_fa_01.mp3?orgId=427869011&topicId=1137&d=2213&p=13&story=652508630&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/28\/652508630\/robert-redford-the-fresh-air-interview","slug":"Movie Interviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"},{"uid":"652531636:652649207","available":true,"duration":514,"title":"A Single Act Of Violence Inspires Outrage And Anger In \u0027Monsters And Men\u0027 ","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180928_fa_02.mp3?orgId=427869011&topicId=4467349&d=514&p=13&story=652531636&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/28\/652531636\/a-single-act-of-violence-inspires-outrage-and-anger-in-monsters-and-men","slug":"Movie Reviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+      </div>
+      
+<!-- END ID="FULL-SHOW" -->
+      <div id="story-list" class="story-list">
+
+    <article class="rundown-segment">
+
+        <div class="rundown-segment__info rundown-segment__info--noimg">
+            <h4 class="rundown-segment__slug"><a href="https://www.npr.org/sections/movie-interviews/">Movie Interviews</a></h4>
+
+            <h3 class="rundown-segment__title"><a href="https://www.npr.org/2018/09/28/652508630/robert-redford-the-fresh-air-interview"  data-metrics='{"action":"Click Rundown Story 1","category":"Rundown Click","label":"https:\/\/www.npr.org\/2018\/09\/28\/652508630\/robert-redford-the-fresh-air-interview"}' >Robert Redford: The 'Fresh Air' Interview</a></h3>
+
+            <div id="storybyline" class=" linkLocation">
+      <div class="bucketwrap byline" id="res652509500" previewTitle="bylines">
+            <p class="byline-container--inline">by <a href="https://www.npr.org/people/2100593/terry-gross" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+  <span class="byline byline--inline">Terry Gross</span>
+</a>
+</p>
+   </div>
+   
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES652509500" PREVIEWTITLE="BYLINES" -->
+</div>
+
+        </div>
+
+        <article id="res652649010" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Robert Redford: The 'Fresh Air' Interview</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"652508630:652649010","available":true,"duration":2213,"title":"Robert Redford: The \u0027Fresh Air\u0027 Interview","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180928_fa_01.mp3?orgId=427869011&topicId=1137&d=2213&p=13&story=652508630&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/28\/652508630\/robert-redford-the-fresh-air-interview","slug":"Movie Interviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2018/09/20180928_fa_01.mp3?orgId=427869011&amp;topicId=1137&amp;d=2213&amp;p=13&amp;story=652508630&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>36:53</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P36M,53S">36:53</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2018/09/20180928_fa_01.mp3?orgId=427869011&amp;topicId=1137&amp;d=2213&amp;p=13&amp;story=652508630&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;652508630&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/652508630/652649010"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;652508630&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/652508630/652649010&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/652508630/652649010" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=652508630"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;652508630&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+    </article>
+
+
+
+    <article class="rundown-segment">
+
+        <div class="rundown-segment__info rundown-segment__info--noimg">
+            <h4 class="rundown-segment__slug"><a href="https://www.npr.org/sections/movie-reviews/">Movie Reviews</a></h4>
+
+            <h3 class="rundown-segment__title"><a href="https://www.npr.org/2018/09/28/652531636/a-single-act-of-violence-inspires-outrage-and-anger-in-monsters-and-men"  data-metrics='{"action":"Click Rundown Story 2","category":"Rundown Click","label":"https:\/\/www.npr.org\/2018\/09\/28\/652531636\/a-single-act-of-violence-inspires-outrage-and-anger-in-monsters-and-men"}' >A Single Act Of Violence Inspires Outrage And Anger In 'Monsters And Men' </a></h3>
+
+            <div id="storybyline" class=" linkLocation">
+      <div class="bucketwrap byline" id="res652541507" previewTitle="bylines">
+            <p class="byline-container--inline">by <a href="https://www.npr.org/people/536029475/justin-chang" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+  <span class="byline byline--inline">Justin Chang</span>
+</a>
+</p>
+   </div>
+   
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES652541507" PREVIEWTITLE="BYLINES" -->
+</div>
+
+        </div>
+
+        <article id="res652649207" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">A Single Act Of Violence Inspires Outrage And Anger In 'Monsters And Men' </h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"652531636:652649207","available":true,"duration":514,"title":"A Single Act Of Violence Inspires Outrage And Anger In \u0027Monsters And Men\u0027 ","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180928_fa_02.mp3?orgId=427869011&topicId=4467349&d=514&p=13&story=652531636&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/28\/652531636\/a-single-act-of-violence-inspires-outrage-and-anger-in-monsters-and-men","slug":"Movie Reviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2018/09/20180928_fa_02.mp3?orgId=427869011&amp;topicId=4467349&amp;d=514&amp;p=13&amp;story=652531636&amp;siteplayer=true&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>8:34</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P8M,34S">8:34</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2018/09/20180928_fa_02.mp3?orgId=427869011&amp;topicId=4467349&amp;d=514&amp;p=13&amp;story=652531636&amp;siteplayer=true&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;652531636&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/652531636/652649207"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;652531636&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/652531636/652649207&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/652531636/652649207" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=652531636"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;652531636&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+    </article>
+
+
+
+    <nav class="program-nav program-nav--two">
+    <ul>
+        <li class="prev"><a href="https://www.npr.org/programs/fresh-air/2018/09/27/652085294?showDate=2018-09-27"  data-metrics='{"action":"Click Previous Episode - Bottom","category":"Story to Story","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/27\/652085294?showDate=2018-09-27"}' ><b class="icn-arrow"></b>Older</a></li>
+        
+        <li class="archive"><a href="/programs/fresh-air/archive"  data-metrics='{"action":"Click Browse Episodes - Bottom","category":"Story to Story","label":"\/programs\/fresh-air\/archive"}' ><b class="icn"></b>browse past shows</a></li>
+
+        <li class="next no-link"><b class="icn-arrow"></b>Newer</li>
+
+    </ul>
+</nav>
+
+</div>
+   </div>
+   <aside id="program-sidebar" class="program-sidebar" aria-label="program sidebar" data-metrics-all data-metrics-category="Program Inner Rail"><ul class="podcast-tools podcast-tools--381444908">
+    <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2018/08/03/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2018/08/03/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32-s800.jpg" class="img lazyOnLoad"  alt="Fresh Air" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        NPR
+        
+    </span>
+</div>
+
+    <li class="subscribe" data-sharepop data-selector=".sharepop.subscribe">
+      <button  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;toggle subscribe menu&quot;}' >subscribe
+        <span class="subscribe-more-info"> to 
+          <span class="channel-title">Fresh Air</span>
+          <span class="generic-title">podcast</span>
+        </span>
+      </button>
+    </li>
+
+    <li class="podcast-tools__subscribe-links">
+      <div class="sharepop-four">
+          <div class="sharepop">
+              <ul>
+                  <li>
+                  <svg width="17" class="subscribe__tooltip">
+                      <g id="Canvas" fill="none">
+                        <g id="tooltip-point">
+                          <path d="M 10.7679 3C 11.5377 1.66667 13.4623 1.66667 14.2321 3L 21.5933 15.75C 22.3631 17.0833 21.4008 18.75 19.8612 18.75L 5.13878 18.75C 3.59918 18.75 2.63693 17.0833 3.40673 15.75L 10.7679 3Z" transform="matrix(0 -1 1 0 -2 22)" fill="#1D3261"/>
+                        </g>
+                      </g>
+                    </svg>
+                    <a href="https://rpb3r.app.goo.gl/4s8b"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click npr one universal&quot;}' >NPR One</a></li>
+                  <li>
+                    <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?s=143441&amp;mt=2&amp;id=214089682&amp;at=11l79Y&amp;ct=nprdirectory"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click itunes&quot;}' >Apple Podcasts</a></li>
+                  <li>
+                    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9MzgxNDQ0OTA4"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click google podcasts&quot;}' >Google Podcasts</a></li>
+                  <li>
+                      <a href="https://pca.st/freshair"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Pocket Casts&quot;}' >Pocket Casts</a></li>
+                  <li>
+                      <a href="https://open.spotify.com/show/0HF5T1BVjaUR6dMlAamdB5"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Spotify&quot;}' >Spotify</a></li>
+                  
+                  <li>
+                    <a target="_blank" href="https://www.npr.org/rss/podcast.php?id=381444908"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click rss&quot;}' >RSS link</a></li>
+              </ul>
+          </div>
+      </div>
+    </li>
+</ul><nav class="program-nav program-nav--one">
+    <ul>
+        <li class="prev"><a href="https://www.npr.org/programs/fresh-air/2018/09/27/652085294?showDate=2018-09-27"  data-metrics='{"action":"Click Previous Episode - Top","category":"Story to Story","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/27\/652085294?showDate=2018-09-27"}' ><b class="icn-arrow"></b>Older</a></li>
+
+        <li class="archive">
+            <a href="/programs/fresh-air/archive"  data-metrics='{"action":"Click Browse Episodes - Top","category":"Story to Story","label":"\/programs\/fresh-air\/archive"}' >
+                <b class="icn"></b>
+                <b class="archive-one">browse past shows</b>
+                <b class="archive-two">Show Archive</b>
+            </a>
+        </li>
+
+        <li class="next no-link"><b class="icn-arrow"></b>Newer</li>
+        
+    </ul>
+
+    <div class="current">
+        <time datetime="2018-09-28">
+            <b class="date">
+                <b class="day">Friday, </b>
+                September 28, 2018
+            </b>
+        </time>
+
+        <h1>Friday's Show</h1>
+    </div>
+
+</nav>
+<div id="program-schedule-mount" class="program-schedule-mount">
+   </div>
+
+<!-- END ID="PROGRAM-SCHEDULE-MOUNT" CLASS="PROGRAM-SCHEDULE-MOUNT" -->
+<div id="program-inner-rail" class="program-inner-rail themelocation linkLocation">
+      <div id="res249341647" class="bucketwrap statichtml">
+            <div class="hosts bucket">
+    <h1>Meet the Host</h1>
+    <ul>
+        <li>
+            <p class="name"><a href="/people/2100593/terry-gross">Terry Gross</a></p>
+        </li>
+    </ul>
+</div>
+
+<div class="contact-show bucket">
+    <h1>Contact The Show</h1>
+    <p>Send us your comments, questions and suggestions</p>
+    <p><a href="https://help.npr.org/customer/portal/emails/new?i=1&s=Fresh%20Air">Contact Us &rightarrow;</a></p>
+</div>
+   </div>
+   
+<!-- END ID="RES249341647" CLASS="BUCKETWRAP STATICHTML" -->
+</div>
+</aside>
+</div>
+<header class="contentheader contentheader--two" data-metrics='{"category":"Fresh Air for Sept. 28, 2018: Robert Redford"}' ><div class="branding branding--custom">
+      <a href="https://www.npr.org/programs/fresh-air/" data-metrics='{"action":"click branding"}' ><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-image"><img class="branding__image-title" src="https://media.npr.org/branding/programs/fresh-air/branding_main-5ca4200447dce40d3e4fd3e079099c948eca49a1.png" alt="Fresh Air" /><b>Fresh Air</b></h2>
+   <b class="branding__mini-teaser">From WHYY in Philadelphia</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+<button class="toggle toggle--agg-tools"></button></header><div id="episode-list" class="episode-list">
+    <h2 class="episode-list__header">Previous Shows</h2>
+
+        <article
+                class="program-show fadeInUp animated"
+                data-episode-id="652085294" data-episode-date="2018-09-27">
+
+
+                <h2 class="program-show__title">
+                    <a href="https://www.npr.org/programs/fresh-air/2018/09/27/652085294?showDate=2018-09-27"  data-metrics='{"action":"Click Archive View Full Show","category":"Interview Archive","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/27\/652085294"}' >Fresh Air for Sept. 27, 2018: Poland's Shift Towards Authoritarianism </a>
+                </h2>
+
+                    <div class="program-show__full-audio">
+                          <b data-play-all='{"type":"episode","full":[],"segments":["652127648:652230624","652145780:652230545"],"audioData":[{"uid":"652127648:652230624","available":true,"duration":2209,"title":"Journalist: Poland\u0027s Shift Toward Authoritarianism Is A \u0027Red Flag\u0027 For Democracy","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180927_fa_01.mp3?orgId=427869011&topicId=1124&d=2209&p=13&story=652127648&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/27\/652127648\/journalist-polands-shift-toward-authoritarianism-is-a-red-flag-for-democracy","slug":"Europe","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"},{"uid":"652145780:652230545","available":true,"duration":399,"title":"\u0027Murphy Brown\u0027 Returns, With Familiarly Defiant \u2014 And Heavy-Handed \u2014 Humor","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180927_fa_02.mp3?orgId=427869011&topicId=1163&d=399&p=13&story=652145780&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/27\/652145780\/murphy-brown-returns-with-familiarly-defiant-and-heavy-handed-humor","slug":"TV Reviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+
+                    </div>
+
+
+        </article>
+        <article
+                class="program-show fadeInUp animated"
+                data-episode-id="651815801" data-episode-date="2018-09-26">
+
+
+                <h2 class="program-show__title">
+                    <a href="https://www.npr.org/programs/fresh-air/2018/09/26/651815801/fresh-air-for-sept-26-2018-musician-jon-batiste?showDate=2018-09-26"  data-metrics='{"action":"Click Archive View Full Show","category":"Interview Archive","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/26\/651815801\/fresh-air-for-sept-26-2018-musician-jon-batiste"}' >Fresh Air for Sept. 26, 2018: Musician Jon Batiste</a>
+                </h2>
+
+                    <div class="program-show__full-audio">
+                          <b data-play-all='{"type":"episode","full":[],"segments":["651768562:651840002"],"audioData":[{"uid":"651768562:651840002","available":true,"duration":2665,"title":"\u0027In The Moment, You Just Fly\u0027: Jon Batiste Lets Loose At The Piano","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180926_fa_01.mp3?orgId=427869011&topicId=1105&d=2665&p=13&story=651768562&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/26\/651768562\/in-the-moment-you-just-fly-jon-batiste-lets-loose-at-the-piano","slug":"Music Interviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+
+                    </div>
+
+
+        </article>
+        <article
+                class="program-show fadeInUp animated"
+                data-episode-id="651413721" data-episode-date="2018-09-25">
+
+
+                <h2 class="program-show__title">
+                    <a href="https://www.npr.org/programs/fresh-air/2018/09/25/651413721/fresh-air-for-sept-25-2018-musicians-robbie-fulks-and-linda-gail-lewis?showDate=2018-09-25"  data-metrics='{"action":"Click Archive View Full Show","category":"Interview Archive","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/25\/651413721\/fresh-air-for-sept-25-2018-musicians-robbie-fulks-and-linda-gail-lewis"}' >Fresh Air for Sept. 25, 2018: Musicians Robbie Fulks And Linda Gail Lewis</a>
+                </h2>
+
+                    <div class="program-show__full-audio">
+                          <b data-play-all='{"type":"episode","full":[],"segments":["651407691:651482805"],"audioData":[{"uid":"651407691:651482805","available":true,"duration":2690,"title":"Robbie Fulks And Linda Gail Lewis On Singing Harmony And Living A \u0027Wild!\u0027 Life","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180925_fa_01.mp3?orgId=427869011&topicId=1105&d=2690&p=13&story=651407691&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/25\/651407691\/robbie-fulks-and-linda-gail-lewis-on-singing-harmony-and-living-a-wild-life","slug":"Music Interviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+
+                    </div>
+
+
+        </article>
+        <article
+                class="program-show fadeInUp animated"
+                data-episode-id="651011229" data-episode-date="2018-09-24">
+
+
+                <h2 class="program-show__title">
+                    <a href="https://www.npr.org/programs/fresh-air/2018/09/24/651011229?showDate=2018-09-24"  data-metrics='{"action":"Click Archive View Full Show","category":"Interview Archive","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/24\/651011229"}' >Fresh Air For Sept. 24, 2018: 'The Awakening Of A Former White Nationalist' </a>
+                </h2>
+
+                    <div class="program-show__full-audio">
+                          <b data-play-all='{"type":"episode","full":[],"segments":["651052970:651197793"],"audioData":[{"uid":"651052970:651197793","available":true,"duration":2510,"title":"How A Rising Star Of White Nationalism Broke Free From The Movement","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180924_fa_01.mp3?orgId=427869011&topicId=1015&d=2510&p=13&story=651052970&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/24\/651052970\/how-a-rising-star-of-white-nationalism-broke-free-from-the-movement","slug":"Race","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+
+                    </div>
+
+
+        </article>
+        <article
+                class="program-show fadeInUp animated"
+                data-episode-id="650508871" data-episode-date="2018-09-22">
+
+
+                <h2 class="program-show__title">
+                    <a href="https://www.npr.org/programs/fresh-air/2018/09/22/650508871/fresh-air-for-sept-22-2018-maggie-gyllenhaal-breaking-free-from-the-evangelical?showDate=2018-09-22"  data-metrics='{"action":"Click Archive View Full Show","category":"Interview Archive","label":"https:\/\/www.npr.org\/programs\/fresh-air\/2018\/09\/22\/650508871\/fresh-air-for-sept-22-2018-maggie-gyllenhaal-breaking-free-from-the-evangelical"}' >Fresh Air for Sept. 22, 2018: Maggie Gyllenhaal; Breaking Free From The Evangelical Purity Movement</a>
+                </h2>
+
+                    <div class="program-show__full-audio">
+                          <b data-play-all='{"type":"episode","full":[],"segments":["650474838:650732120"],"audioData":[{"uid":"650474838:650732120","available":true,"duration":3078,"title":"Fresh Air Weekend: Maggie Gyllenhaal; Breaking Free From The Purity Movement","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2018\/09\/20180922_fa_01.mp3?orgId=427869011&topicId=1022&aggIds=139029251&d=3078&p=13&story=650474838&siteplayer=true","storyUrl":"https:\/\/www.npr.org\/2018\/09\/22\/650474838\/fresh-air-weekend-maggie-gyllenhaal-breaking-free-from-the-purity-movement","slug":"Interviews","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}]}'></b>
+
+
+                    </div>
+
+
+        </article>
+
+</div><div class="agg-archive-search-tools">
+    <b class="agg-archive-search-tools__lead-in">
+        <a href="/programs/fresh-air/archive">Browse archive</a> or
+    </b>
+    <a href="/search" class="agg-archive-search-tools__search">search npr.org</a>
+</div><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/templates/newsletters/newsletters.php" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/series/750003/press-room/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/ombudsman/" data-metrics-action="Click Ombudsman">Ombudsman</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/series/750002/support-public-radio" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer></section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-program_Fresh_Air" class="ad-standard" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"program_Fresh_Air","targets":{"testserver":"false","storyId":"652487255","program":"Fresh_Air"},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<iframe width="0" height="0" name="Q11 Tracking - NPR - Site Retargeting" frameborder="0" scrolling="no" id="insight-adsrvr-iframe" style="display: none;"></iframe><script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([64,26],{0:function(n,t,c){n.exports=c(1722)},1722:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(32),c(365),c(388),c(387),c(2010),c(191),c(260),c(244),c(253),c(1461),c(362)}(c)}.bind(this);c.e(0,t),c.e(6,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

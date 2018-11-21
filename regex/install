@@ -1,0 +1,7 @@
+Reading '/Users/AustinHua/.cpan/Metadata'
+  Database was generated on Thu, 27 Sep 2018 03:54:27 GMT
+Warning: You are not allowed to write into directory "/Users/AustinHua/.cpan/sources/authors".
+    I'll continue, but if you encounter problems, they may be due
+    to insufficient permissions.
+Fetching with LWP:
+http://cpan.mirror.serversaustralia.com.au/authors/01mailrc.txt.gz
